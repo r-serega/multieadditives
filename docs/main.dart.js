@@ -23533,8 +23533,8 @@ ayH(){var s=t.Y
 s=new A.HP(new A.c2(s),new A.c2(s),!1,!1)
 s.eC()
 $.ayf.b1()
-s.x="http://192.168.0.108:3020/api"
-s.x="http://192.168.0.108:3020/api/config"
+s.x="https://multiapps-seven.vercel.app/api"
+s.x="https://multiapps-seven.vercel.app/api/config"
 return s},
 HP:function HP(a,b,c,d){var _=this
 _.CW=_.x=null
