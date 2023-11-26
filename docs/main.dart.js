@@ -29379,8 +29379,8 @@ BB(){var s=t.B
 s=new A.P7(new A.aO(s),new A.aO(s),!1,!1)
 s.cf()
 $.ii.au()
-s.x="http://192.168.0.106:3020/api"
-s.x="http://192.168.0.106:3020/api/list"
+s.x="https://multiapps-seven.vercel.app/api"
+s.x="https://multiapps-seven.vercel.app/api/list"
 return s},
 P7:function P7(a,b,c,d){var _=this
 _.cx=_.CW=_.x=null
@@ -29524,8 +29524,8 @@ wd(){var s=t.B
 s=new A.QO(new A.aO(s),new A.aO(s),!1,!1)
 s.cf()
 $.ii.au()
-s.x="http://192.168.0.106:3020/api"
-s.x="http://192.168.0.106:3020/api/info"
+s.x="https://multiapps-seven.vercel.app/api"
+s.x="https://multiapps-seven.vercel.app/api/info"
 return s},
 QO:function QO(a,b,c,d){var _=this
 _.cx=_.CW=_.x=null
@@ -29762,8 +29762,8 @@ aLC(){var s=t.B
 s=new A.Ob(new A.aO(s),new A.aO(s),!1,!1)
 s.cf()
 $.ii.au()
-s.x="http://192.168.0.106:3020/api"
-s.x="http://192.168.0.106:3020/api/config"
+s.x="https://multiapps-seven.vercel.app/api"
+s.x="https://multiapps-seven.vercel.app/api/config"
 return s},
 Ob:function Ob(a,b,c,d){var _=this
 _.cx=_.CW=_.x=null
@@ -29913,8 +29913,8 @@ atX(){var s=t.B
 s=new A.Ww(new A.aO(s),new A.aO(s),!1,!1)
 s.cf()
 $.ii.au()
-s.x="http://192.168.0.106:3020/api"
-s.x="http://192.168.0.106:3020/api/auth"
+s.x="https://multiapps-seven.vercel.app/api"
+s.x="https://multiapps-seven.vercel.app/api/auth"
 return s},
 Ww:function Ww(a,b,c,d){var _=this
 _.cx=_.CW=_.x=null
@@ -94992,8 +94992,8 @@ h=t.B
 h=new A.Mj(new A.aO(h),new A.aO(h),!1,!1)
 h.cf()
 $.ii.au()
-h.x="http://192.168.0.106:3020/api"
-h.x="http://192.168.0.106:3020/api/appsload"
+h.x="https://multiapps-seven.vercel.app/api"
+h.x="https://multiapps-seven.vercel.app/api/appsload"
 s=15
 return A.p(h.Ch(o.ax),$async$t2)
 case 15:return A.r(null,r)
@@ -95449,8 +95449,8 @@ while(true)switch(s){case 0:l=t.B
 l=new A.MB(new A.aO(l),new A.aO(l),!1,!1)
 l.cf()
 $.ii.au()
-l.x="http://192.168.0.106:3020/api"
-l.x="http://192.168.0.106:3020/api/appsmail"
+l.x="https://multiapps-seven.vercel.app/api"
+l.x="https://multiapps-seven.vercel.app/api/appsmail"
 p=q.ay
 s=2
 return A.p(l.K8(0,"mEAdditives",p.a.a),$async$Bt)
@@ -95978,8 +95978,8 @@ o=t.B
 o=new A.NU(new A.aO(o),new A.aO(o),!1,!1)
 o.cf()
 $.ii.au()
-o.x="http://192.168.0.106:3020/api"
-o.x="http://192.168.0.106:3020/api/classification"
+o.x="https://multiapps-seven.vercel.app/api"
+o.x="https://multiapps-seven.vercel.app/api/classification"
 n=B.b
 m=p
 s=2
@@ -96093,8 +96093,8 @@ o=t.B
 o=new A.Oy(new A.aO(o),new A.aO(o),!1,!1)
 o.cf()
 $.ii.au()
-o.x="http://192.168.0.106:3020/api"
-o.x="http://192.168.0.106:3020/api/danger"
+o.x="https://multiapps-seven.vercel.app/api"
+o.x="https://multiapps-seven.vercel.app/api/danger"
 n=B.b
 m=p
 s=2
@@ -96542,8 +96542,8 @@ o=t.B
 o=new A.Qt(new A.aO(o),new A.aO(o),!1,!1)
 o.cf()
 $.ii.au()
-o.x="http://192.168.0.106:3020/api"
-o.x="http://192.168.0.106:3020/api/groups"
+o.x="https://multiapps-seven.vercel.app/api"
+o.x="https://multiapps-seven.vercel.app/api/groups"
 n=B.b
 m=p
 s=2
@@ -97124,8 +97124,8 @@ o=t.B
 o=new A.Sh(new A.aO(o),new A.aO(o),!1,!1)
 o.cf()
 $.ii.au()
-o.x="http://192.168.0.106:3020/api"
-o.x="http://192.168.0.106:3020/api/origin"
+o.x="https://multiapps-seven.vercel.app/api"
+o.x="https://multiapps-seven.vercel.app/api/origin"
 n=B.b
 m=p
 s=2
@@ -97241,8 +97241,8 @@ o=t.B
 o=new A.UB(new A.aO(o),new A.aO(o),!1,!1)
 o.cf()
 $.ii.au()
-o.x="http://192.168.0.106:3020/api"
-o.x="http://192.168.0.106:3020/api/sections"
+o.x="https://multiapps-seven.vercel.app/api"
+o.x="https://multiapps-seven.vercel.app/api/sections"
 n=B.b
 m=p
 s=2
@@ -97513,7 +97513,7 @@ var $async$z0=A.v(function(a,b){if(a===1){o=b
 s=p}while(true)switch(s){case 0:p=4
 $.ii.au()
 s=7
-return A.p(A.b_H("http://192.168.0.106:3020/api"),$async$z0)
+return A.p(A.b_H("https://multiapps-seven.vercel.app/api"),$async$z0)
 case 7:m=b
 n.push(6)
 s=5
@@ -97646,8 +97646,8 @@ o=t.B
 o=new A.WE(new A.aO(o),new A.aO(o),!1,!1)
 o.cf()
 $.ii.au()
-o.x="http://192.168.0.106:3020/api"
-o.x="http://192.168.0.106:3020/api/vegans"
+o.x="https://multiapps-seven.vercel.app/api"
+o.x="https://multiapps-seven.vercel.app/api/vegans"
 n=B.b
 m=p
 s=2
